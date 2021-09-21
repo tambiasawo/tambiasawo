@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tambiasawo
 - 👀 I’m interested in FrontEnd Development projects or positions 
-- 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on React and JavaScript Projects
+- 🌱 I’m a React Developer
+- 💞️ I’m <b>love</b> designing UI with code
 - 📫 You can reach me via email @ tambi.asawo@yahoo.com
 - Or visit my portfolio @ https://tambiasawo.com
 <!---
